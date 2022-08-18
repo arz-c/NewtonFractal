@@ -1,0 +1,21 @@
+C:\Users\areez\Documents\Coding\Visual Studio\ICS4U9 Projects\NewtonFractal\NewtonFractal\bin\Debug\NewtonFractal.exe.config
+C:\Users\areez\Documents\Coding\Visual Studio\ICS4U9 Projects\NewtonFractal\NewtonFractal\bin\Debug\NewtonFractal.exe
+C:\Users\areez\Documents\Coding\Visual Studio\ICS4U9 Projects\NewtonFractal\NewtonFractal\bin\Debug\NewtonFractal.pdb
+C:\Users\areez\Documents\Coding\Visual Studio\ICS4U9 Projects\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.csproj.AssemblyReference.cache
+C:\Users\areez\Documents\Coding\Visual Studio\ICS4U9 Projects\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.csproj.SuggestedBindingRedirects.cache
+C:\Users\areez\Documents\Coding\Visual Studio\ICS4U9 Projects\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.NewtonFractalForm.resources
+C:\Users\areez\Documents\Coding\Visual Studio\ICS4U9 Projects\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.Properties.Resources.resources
+C:\Users\areez\Documents\Coding\Visual Studio\ICS4U9 Projects\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.csproj.GenerateResource.cache
+C:\Users\areez\Documents\Coding\Visual Studio\ICS4U9 Projects\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.csproj.CoreCompileInputs.cache
+C:\Users\areez\Documents\Coding\Visual Studio\ICS4U9 Projects\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.exe
+C:\Users\areez\Documents\Coding\Visual Studio\ICS4U9 Projects\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.pdb
+C:\Users\Areez\Downloads\NewtonFractal\NewtonFractal\bin\Debug\NewtonFractal.exe.config
+C:\Users\Areez\Downloads\NewtonFractal\NewtonFractal\bin\Debug\NewtonFractal.exe
+C:\Users\Areez\Downloads\NewtonFractal\NewtonFractal\bin\Debug\NewtonFractal.pdb
+C:\Users\Areez\Downloads\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.csprojAssemblyReference.cache
+C:\Users\Areez\Downloads\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.NewtonFractalForm.resources
+C:\Users\Areez\Downloads\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.Properties.Resources.resources
+C:\Users\Areez\Downloads\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.csproj.GenerateResource.cache
+C:\Users\Areez\Downloads\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.csproj.CoreCompileInputs.cache
+C:\Users\Areez\Downloads\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.exe
+C:\Users\Areez\Downloads\NewtonFractal\NewtonFractal\obj\Debug\NewtonFractal.pdb
